@@ -1,4 +1,4 @@
-﻿# Personal CRM Architecture
+﻿# net-pal Architecture
 
 This repository contains a multi-tenant Personal CRM built on Cloudflare Workers + Durable Objects, with a React frontend and Supabase authentication.
 
