@@ -1,0 +1,7 @@
+{
+  "name": "personal-crm-api",
+  "private": true,
+  "engines": {
+    "node": "22.0.0"
+  }
+}
